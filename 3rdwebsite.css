@@ -1,0 +1,76 @@
+.main{color:red;
+      
+
+}
+
+.eni{
+    color:magenta;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+input{ width: 300px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-block: 30px;
+    background-color: silver;
+    
+}
+
+
+.red{background-color: brown;
+        height:100px;
+        width: 200px;
+        display:block;
+    margin-left: auto;
+    margin-right: auto;}
+ .blue{background-color: blue;
+            height:100px;
+            width: 200px;
+        margin-top: 30px;
+        display:block;
+    margin-left: auto;
+    margin-right: auto;}
+.green{background-color: green;
+                height:100px;
+                width: 200px;}
+
+.passport{
+    
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.terrace{
+    
+    border-radius: 5px;
+    margin-right: 40px;
+    
+    
+}
+.terrac{
+    
+    font-size: 15;
+    padding-block: 20px;
+    background-color: white;
+    border: solid black 2px ;
+    border-radius: 10px;
+    margin-right: 40px;
+    width:200px;
+    text-align: center;
+    font-family: sans-serif;
+   
+}
+
+.houses{
+    display: flex;
+    justify-content: center;
+ 
+}
+
+.prices{
+    display: flex;
+    justify-content: center;
+}
